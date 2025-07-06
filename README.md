@@ -31,4 +31,5 @@
 
 ---
 
-> “Build things that matter. Automate the boring. Monitor the rest.”
+> “> _You have the right to perform your duty, but not to the results of your actions._  
+> — *Bhagavad Gita 2.47*”
