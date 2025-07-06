@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Vishnu Valsalan
 
-🎯 Senior Data Scientist | Builder | Innovator  
+🎯 Senior Data Scientist @BoschRexroth | Builder | Innovator  
 🧠 Passionate about building intelligent systems that drive real-world impact  
 📚 Avid learner | Loves to tinker, experiment, and create
 
