@@ -31,5 +31,6 @@
 
 ---
 
-> “> _You have the right to perform your duty, but not to the results of your actions._  
-> — *Bhagavad Gita 2.47*”
+> 🕉️ **"Karmanye vadhikaraste, ma phaleshu kadachana"**  
+> _You have the right to perform your duty, but not to the results of your actions._  
+> — *Bhagavad Gita 2.47*
