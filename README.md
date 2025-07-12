@@ -16,6 +16,12 @@
 
 ---
 
+> 🕉️ **"Karmanye vadhikaraste, ma phaleshu kadachana"**  
+> _You have the right to perform your duty, but not to the results of your actions._  
+> — *Bhagavad Gita 2.47*
+
+---
+
 ### 📊 GitHub Stats
 
 ![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=space4VV&show_icons=true&theme=tokyonight)
@@ -30,7 +36,3 @@
 - ✉️ [Email](mailto:vishnu.valsalan@outlook.com)
 
 ---
-
-> 🕉️ **"Karmanye vadhikaraste, ma phaleshu kadachana"**  
-> _You have the right to perform your duty, but not to the results of your actions._  
-> — *Bhagavad Gita 2.47*
